@@ -2,7 +2,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <img src="./img/mm-header.png" style="max-width: 100%; margin-left: auto; margin-right: auto;" />
 
